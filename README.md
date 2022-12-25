@@ -65,8 +65,8 @@ finishes, a snowflake animation appears on the screen. Clicking the left mouse b
 
 ## Video 
 
-[![Holidays 2002 with GameZero]         
-(game.png)] 
-(https://www.youtube.com/watch?v=GC1W39R2hLs "Holidays 2022 with GameZero")  
+A video with example gameplay is here: https://www.youtube.com/watch?v=GC1W39R2hLs 
 
-(Tested with Julia 1.8 only)
+## Caveats
+
+Tested with Julia 1.8 only
