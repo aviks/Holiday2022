@@ -157,9 +157,9 @@ version = "1.20.3+0"
 
 [[deps.GameZero]]
 deps = ["Colors", "Random", "SimpleDirectMediaLayer"]
-path = "C:\\Users\\avik\\.julia\\dev\\GameZero"
+git-tree-sha1 = "ca8e2570eefb5f65f7185fb90bf49e70f364d0fe"
 uuid = "9da27670-f782-11e9-1da1-f53579315bfe"
-version = "0.3.0"
+version = "0.3.1"
 
 [[deps.Gdbm_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Libiconv_jll", "Pkg", "Readline_jll"]
