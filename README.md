@@ -1,4 +1,6 @@
-This is a simple holiday themed game, made with GameZero.jl. 
+This is a simple holiday themed game, made with GameZero.jl. It's a little over 200 lines of pure Julia code, which should make a good example for teaching the language. Hopefully it is also fun to play! 
+
+The images in the game have been generated with Stable Diffusion. The music is custom recorded. 
 
 ## Starting the game
 
@@ -69,4 +71,5 @@ A video with example gameplay is here: https://www.youtube.com/watch?v=GC1W39R2h
 
 ## Caveats
 
-Tested with Julia 1.8 only
+* Tested with Julia 1.8 only
+* Unfortunately, this game (and SDL2/Gamezero in general) do not work very well on Macs with Retina screens. 
